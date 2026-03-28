@@ -12,7 +12,7 @@ double getMax(double a, double b){
 int main(void){
   int a = 10 ; 
   int b = 20; 
-
+  printf("Hello Team"); 
   printf("Sum = %d \n", add(a,b)); 
   printf("Max = %d \n", getMax(a,b));
 
