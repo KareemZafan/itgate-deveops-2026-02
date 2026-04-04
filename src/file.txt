@@ -4,5 +4,7 @@ This is a file for new branch description
 
 Add your changes here in the feature file.
 
-change to test prot. in master branch.
+Changes to test protection rule. in master branch
+Practicing the review process through GitHub. 
+
 
