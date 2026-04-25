@@ -3,11 +3,3 @@ Add your changes here in the feature file.
 Changes to test protection rule. in master branch
 Practicing the review process through GitHub. 
 
-After applying the reqeusted changes. 
-
-
-
-
-
-Last session for GitCourse Changes. 
-
