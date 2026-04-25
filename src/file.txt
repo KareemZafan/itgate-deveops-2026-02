@@ -6,3 +6,8 @@ Practicing the review process through GitHub.
 After applying the reqeusted changes. 
 
 
+
+
+
+Last session for GitCourse Changes. 
+
