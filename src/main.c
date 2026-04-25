@@ -12,6 +12,14 @@ double subtract(double a, double b){
 return a - b; 
 
 }
+double div(double a, double b){
+return a / b;
+
+}
+
+double mul(double a, double b){
+  return a * b; 
+}
 
 int main(void){
   int a = 10 ; 
