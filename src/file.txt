@@ -2,12 +2,11 @@ This is a file for new branch description
 Add your changes here in the feature file.
 Changes to test protection rule. in master branch
 Practicing the review process through GitHub. 
-
-After applying the reqeusted changes. 
-
-
-
-
-
-Last session for GitCourse Changes. 
-
+line 1
+line 2 
+line 3 
+line 4
+New chnages from Kareem
+- Task1
+- Task2
+- Task3
